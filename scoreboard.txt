@@ -1,1 +1,1 @@
-"scoreboard changed" 
+"scoreboard error" 
